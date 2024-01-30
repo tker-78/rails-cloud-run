@@ -40,5 +40,5 @@ yarn-debug.log*
 !/app/assets/builds/.keep
 
 .env
-.dbpassword
+dbpassword
 config/master.key
